@@ -17,7 +17,7 @@ Recently, I have been more actively involved in building and managing scalable A
 See [my website](https://uchennaemeruche.com) for more information!
 
 ## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/uchenna-emeruche-584332164) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/EmerucheUchenna) [![Website]](https://uchennaemeruche.com) 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/uchenna-emeruche-584332164) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/EmerucheUchenna) [![Website](https://img.shields.io/badge/Portfolio-%230077B5.svg?logo=semanticweb&logoColor=white)](https://uchennaemeruche.com) 
 
 ## Tech Stack
 
