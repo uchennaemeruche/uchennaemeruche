@@ -22,7 +22,7 @@ See [my website](https://uchennaemeruche.com) for more information!
 ## Tech Stack
 
 ### Programming Languages/Frameworks
-![Golang](https://img.shields.io/badge/Golang-%234DE1FF.svg?style=for-the-badge&logo=go&logoColor=white) ![JS](https://img.shields.io/badge/javascript-%23FF9900.svg?style=for-the-badge&logo=javascript&logoColor=white) ![TS](https://img.shields.io/badge/typescript-%2300599C.svg?style=for-the-badge&logo=typescript&logoColor=white) ![VueJS](https://img.shields.io/badge/vue-%2300599C.svg?style=for-the-badge&logo=vuedotjs&logoColor=green) ![Dart](https://img.shields.io/badge/dart-%2300599C.svg?style=for-the-badge&logo=dart&logoColor=black) ![NuxtJS](https://img.shields.io/badge/Nuxt%JS-%A13BC6?style=for-the-badge&logo=nuxtdotjs&logoColor=D0C3D5) 
+![Golang](https://img.shields.io/badge/Golang-%234DE1FF.svg?style=for-the-badge&logo=go&logoColor=white) ![JS](https://img.shields.io/badge/javascript-%23FF9900.svg?style=for-the-badge&logo=javascript&logoColor=white) ![TS](https://img.shields.io/badge/typescript-%2300599C.svg?style=for-the-badge&logo=typescript&logoColor=white) ![VueJS](https://img.shields.io/badge/vue-%2300599C.svg?style=for-the-badge&logo=vuedotjs&logoColor=green) ![Dart](https://img.shields.io/badge/dart-%2300599C.svg?style=for-the-badge&logo=dart&logoColor=black) ![NuxtJS](https://img.shields.io/badge/Nuxtjs-%A13BC6?style=for-the-badge&logo=nuxtdotjs&logoColor=D0C3D5) 
 
 
 ### Databases
