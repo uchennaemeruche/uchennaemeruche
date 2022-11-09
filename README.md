@@ -4,9 +4,9 @@
 
 ## :zap: About Me
 
-I am a human being and a Software Engineer with 6+ years of experience, passionate about writing quality, maintainable code and building digital products.
+I am a human being and a Software Engineer, passionate about writing quality and maintainable code while building digital products at scale.
 
-I offer a proven experience in building highly scalable software solutions in a CI/CD-based and test-driven environment. Having worked(still working) as a Software Engineer at different levels over the years, I bring to bear robust and multifarious problem-solving techniques as well as expertise in building reliable and maintainable softwares using both Frontend and Backend tools.
+I offer years of proven experience in building highly scalable software solutions in a CI/CD-based and test-driven environment. Having worked(still working) as a Software Engineer at different levels over the years, I bring to bear robust and multifarious problem-solving techniques as well as expertise in building reliable and maintainable softwares using both Frontend and Backend tools.
 
 I am detail-oriented, a self-starter, a fast and passionate learner, an excellent verbal and written communicator and a team-player/manager with good interpersonal and analytical skills. 
 
