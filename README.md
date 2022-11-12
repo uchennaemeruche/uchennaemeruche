@@ -30,6 +30,14 @@ See [my website](https://uchennaemeruche.com) for more information!
 ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white) ![Firebase](https://img.shields.io/badge/Firebase-%234DE1FF.svg?style=for-the-badge&logo=firebase&logoColor=white)
 
 
+<a href="https://github.com/uchennaemeruche">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=uchennaemeruche&theme=nord&show_icons=true&count_private=true&hide=contribs&line_height=40" />
+</a>
+<a href="https://github.com/uchennaemeruche">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=uchennaemeruche&theme=nord&langs_count=4&hide=html,css,erlang" />
+</a>
+
+
 
 
 <!--
