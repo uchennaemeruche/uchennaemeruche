@@ -34,7 +34,7 @@ See [my website](https://uchennaemeruche.com) for more information!
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=uchennaemeruche&theme=nord&show_icons=true&count_private=true&hide=contribs&line_height=40" />
 </a>
 <a href="https://github.com/uchennaemeruche">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=uchennaemeruche&theme=nord&langs_count=4&hide=html,css,erlang" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=uchennaemeruche&theme=nord&hide=html,css,erlang" />
 </a>
 
 
