@@ -17,7 +17,7 @@ Recently, I have been actively building and managing backend systems, scalable A
 See [my website](https://uchennaemeruche.com) for more information!
 
 ## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/uchenna-emeruche-584332164) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/EmerucheUchenna) [![Website](https://img.shields.io/badge/Portfolio-%230077B5.svg?logo=semanticweb&logoColor=white)](https://uchennaemeruche.com) 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/uchenna-emeruche-584332164) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/EmerucheUchenna) [![Website](https://img.shields.io/badge/Portfolio-%230077B5.svg?logo=semanticweb&logoColor=white)](https://uchennaemeruche.com) [![Blog](https://img.shields.io/badge/Hashnode-2962FF?style=for-the-badge&logo=hashnode&logoColor=white)](https://uchenna.hashnode.dev/)
 
 ## Tech Stack
 
@@ -27,8 +27,12 @@ See [my website](https://uchennaemeruche.com) for more information!
 
 ### Databases
 
-![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![Firebase](https://img.shields.io/badge/Firebase-%234DE1FF.svg?style=for-the-badge&logo=firebase&logoColor=white)     ![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white)
+![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![Firebase](https://img.shields.io/badge/Firebase-%234DE1FF.svg?style=for-the-badge&logo=firebase&logoColor=white)     ![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white) 
 
+### Other Tools
+ ![RabbitMQ](https://img.shields.io/badge/rabbitmq-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%234ea94b.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Prisma](https://img.shields.io/badge/Prisma-3982CE?style=for-the-badge&logo=Prisma&logoColor=white) 
+
+<br/>
 
 - 🔭 Open Source Projects I’m currently working on
   -
@@ -58,6 +62,7 @@ See [my website](https://uchennaemeruche.com) for more information!
   - NodeJs/Typscript
   - VueJS
    
+<br/><br/>
    
 
 <a href="https://github.com/uchennaemeruche">
