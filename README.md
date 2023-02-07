@@ -16,8 +16,8 @@ Recently, I have been actively building and managing backend systems, scalable A
 
 See [my website](https://uchennaemeruche.com) for more information!
 
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/uchenna-emeruche-584332164) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/EmerucheUchenna) [![Website](https://img.shields.io/badge/Portfolio-%230077B5.svg?logo=semanticweb&logoColor=white)](https://uchennaemeruche.com) [![Blog](https://img.shields.io/badge/Hashnode-2962FF?style=for-the-badge&logo=hashnode&logoColor=white)](https://uchenna.hashnode.dev/)
+## 🌐 Contact:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/uchenna-emeruche-584332164) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/EmerucheUchenna) [![Website](https://img.shields.io/badge/Portfolio-%230077B5.svg?logo=semanticweb&logoColor=white)](https://uchennaemeruche.com) [![Blog](https://img.shields.io/badge/Hashnode-2962FF?style=for-the-badge&logo=hashnode&logoColor=white)](https://uchenna.hashnode.dev/) [![Resume](https://img.shields.io/badge/-Resume-blue)](https://drive.google.com/file/d/1BmQYChaNqzrXhT7IZVnMX3YPfrBJFQM2/view?usp=sharing)
 
 ## Tech Stack
 
