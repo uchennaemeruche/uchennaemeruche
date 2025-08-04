@@ -4,7 +4,7 @@
 
 ## :zap: About Me
 
-Uchenna Emeruche is a human being and a Software Engineer, passionate about writing quality and maintainable code while building digital products at scale.
+I am a human being and a Software Engineer, passionate about writing quality and maintainable code while building digital products at scale.
 
 I offer years of proven experience in building highly scalable software solutions in a CI/CD-based and test-driven environment. Having being working as a Software Engineer at different levels over the years, I bring robust and multifarious problem-solving techniques as well as expertise in building reliable and maintainable softwares using both Frontend and Backend tools. I have experience working with product-based startup companies and I understand the importance of building a product at scale. I understand that startup life often involves wearing multiple hats to get the job done and I'm thrilled by it.
 
